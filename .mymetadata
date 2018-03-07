@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SIPCRM"
+  id="myeclipse.1356321605162"
+  context-root="/SIPCRM"
+  j2ee-spec="5.0"
+  archive="SIPCRM.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
